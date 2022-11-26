@@ -11,5 +11,5 @@ function divideByTwo(nums) {
   }
 }
 
-const nums = [3, 4, 9, 6, 2, 1];
-divideByTwo(nums);
+const num = [3, 4, 9, 6, 2, 1];
+divideByTwo(num);
